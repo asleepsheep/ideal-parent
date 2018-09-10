@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ideal-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ideal-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ideal-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ideal-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ideal-groupbussiness" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ideal-groupbussiness/ideal-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ideal-groupbussiness/ideal-bussiness" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ideal-groupbussiness/ideal-intensive" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ideal-groupbussiness/ideal-price" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ideal-logger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ideal-message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ideal-monitor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ideal-register" charset="UTF-8" />
+  </component>
+</project>

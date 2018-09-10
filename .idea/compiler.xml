@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ideal-api" />
+        <module name="ideal-auth" />
+        <module name="ideal-bussiness" />
+        <module name="ideal-common" />
+        <module name="ideal-config" />
+        <module name="ideal-gateway" />
+        <module name="ideal-intensive" />
+        <module name="ideal-logger" />
+        <module name="ideal-message" />
+        <module name="ideal-monitor" />
+        <module name="ideal-price" />
+        <module name="ideal-register" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ideal-api" target="1.8" />
+      <module name="ideal-auth" target="1.8" />
+      <module name="ideal-bussiness" target="1.8" />
+      <module name="ideal-common" target="1.5" />
+      <module name="ideal-config" target="1.8" />
+      <module name="ideal-gateway" target="1.8" />
+      <module name="ideal-groupbussiness" target="1.8" />
+      <module name="ideal-intensive" target="1.8" />
+      <module name="ideal-logger" target="1.8" />
+      <module name="ideal-message" target="1.8" />
+      <module name="ideal-monitor" target="1.8" />
+      <module name="ideal-parent" target="1.8" />
+      <module name="ideal-price" target="1.8" />
+      <module name="ideal-register" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

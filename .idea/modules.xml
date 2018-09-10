@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ideal-groupbussiness/ideal-api/ideal-api.iml" filepath="$PROJECT_DIR$/ideal-groupbussiness/ideal-api/ideal-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ideal-auth/ideal-auth.iml" filepath="$PROJECT_DIR$/ideal-auth/ideal-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ideal-groupbussiness/ideal-bussiness/ideal-bussiness.iml" filepath="$PROJECT_DIR$/ideal-groupbussiness/ideal-bussiness/ideal-bussiness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ideal-common/ideal-common.iml" filepath="$PROJECT_DIR$/ideal-common/ideal-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ideal-config/ideal-config.iml" filepath="$PROJECT_DIR$/ideal-config/ideal-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ideal-gateway/ideal-gateway.iml" filepath="$PROJECT_DIR$/ideal-gateway/ideal-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ideal-groupbussiness/ideal-groupbussiness.iml" filepath="$PROJECT_DIR$/ideal-groupbussiness/ideal-groupbussiness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ideal-groupbussiness/ideal-intensive/ideal-intensive.iml" filepath="$PROJECT_DIR$/ideal-groupbussiness/ideal-intensive/ideal-intensive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ideal-logger/ideal-logger.iml" filepath="$PROJECT_DIR$/ideal-logger/ideal-logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ideal-message/ideal-message.iml" filepath="$PROJECT_DIR$/ideal-message/ideal-message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ideal-monitor/ideal-monitor.iml" filepath="$PROJECT_DIR$/ideal-monitor/ideal-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ideal-parent.iml" filepath="$PROJECT_DIR$/ideal-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ideal-groupbussiness/ideal-price/ideal-price.iml" filepath="$PROJECT_DIR$/ideal-groupbussiness/ideal-price/ideal-price.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ideal-register/ideal-register.iml" filepath="$PROJECT_DIR$/ideal-register/ideal-register.iml" />
+    </modules>
+  </component>
+</project>
